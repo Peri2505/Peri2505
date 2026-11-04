@@ -1,48 +1,74 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Aiperi Moldobaeva — Software Engineer to Security Engineer. Open to full-time roles and internships."/>
+  <img src="assets/hero.svg" width="100%" alt="Hi, I'm Aiperi Moldobaeva — software engineer growing into security. Open to full-time roles and internships."/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aiperi-moldobaeva"><img src="https://img.shields.io/badge/LinkedIn-Connect-0b1220?style=for-the-badge&logo=linkedin&logoColor=2dd4bf&labelColor=0b1220" alt="LinkedIn"/></a>
-  <a href="mailto:moldobaevaaiperi19@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-0b1220?style=for-the-badge&logo=gmail&logoColor=2dd4bf&labelColor=0b1220" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/aiperi-moldobaeva"><img src="https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-7c3aed?style=for-the-badge" alt="LinkedIn"/></a>
+  <a href="mailto:moldobaevaaiperi19@gmail.com"><img src="https://img.shields.io/badge/Email%20me-ec4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <br/>
 
-<img src="assets/title-projects.svg" width="100%" alt="01 — Featured builds"/>
+<img src="assets/title-projects.svg" width="100%" alt="Things I've built"/>
 
 <p align="center">
-  <a href="https://github.com/Peri2505/exhibit-a"><img src="assets/card-exhibit-a.svg" width="32%" alt="Exhibit A — agentic security reviewer that proves every bug with a failing test before fixing it"/></a>
-  <a href="https://github.com/Peri2505/scamshield"><img src="assets/card-scamshield.svg" width="32%" alt="ScamShield — family fraud firewall for Alexa+"/></a>
-  <a href="https://github.com/Peri2505/sealed"><img src="assets/card-sealed.svg" width="32%" alt="Sealed — AI-verified deals with payment held by PayPal until delivery is proven"/></a>
+  <a href="https://github.com/Peri2505/exhibit-a"><img src="assets/card-exhibit-a.svg" width="32%" alt="Exhibit A — an AI code reviewer that proves every security bug with a failing test before it writes the fix"/></a>
+  <a href="https://github.com/Peri2505/scamshield"><img src="assets/card-scamshield.svg" width="32%" alt="ScamShield — a fraud firewall for Alexa+ that protects older adults"/></a>
+  <a href="https://github.com/Peri2505/sealed"><img src="assets/card-sealed.svg" width="32%" alt="Sealed — PayPal holds the payment until AI confirms delivery"/></a>
 </p>
 
 <br/>
 
-<img src="assets/title-stack.svg" width="100%" alt="02 — Toolkit"/>
+<img src="assets/title-stack.svg" width="100%" alt="My toolkit"/>
 
-<img src="assets/stack.svg" width="100%" alt="Security & identity: Entra ID, Conditional Access, IAM, Sentinel, Intune, Kali Linux, DevSecOps. Cloud: Azure, AWS Bedrock, DynamoDB, SNS, Terraform, Linux, Nebius. Engineering: Python, TypeScript, JavaScript, React, Node.js, MCP servers, AI agents. Design: product & UX, web design, Figma, HTML/CSS, motion design."/>
+<p align="center">
+  <b>Languages & frameworks</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,html,css&theme=light" alt="Python, JavaScript, TypeScript, React, Node.js, HTML, CSS"/>
+</p>
+
+<p align="center">
+  <b>Cloud & security</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=azure,aws,terraform,linux,kali&theme=light" alt="Azure, AWS, Terraform, Linux, Kali Linux"/>
+</p>
+
+<p align="center">
+  <b>Design & workflow</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode&theme=light" alt="Figma, Git, GitHub, VS Code"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft%20Entra%20ID-7c3aed?style=flat-square" alt="Microsoft Entra ID"/>
+  <img src="https://img.shields.io/badge/Conditional%20Access-7c3aed?style=flat-square" alt="Conditional Access"/>
+  <img src="https://img.shields.io/badge/IAM-ec4899?style=flat-square" alt="IAM"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Sentinel-ec4899?style=flat-square" alt="Microsoft Sentinel"/>
+  <img src="https://img.shields.io/badge/Intune-f97316?style=flat-square" alt="Intune"/>
+  <img src="https://img.shields.io/badge/DevSecOps-f97316?style=flat-square" alt="DevSecOps"/>
+  <img src="https://img.shields.io/badge/AWS%20Bedrock-0ea5e9?style=flat-square" alt="AWS Bedrock"/>
+  <img src="https://img.shields.io/badge/MCP%20servers-0ea5e9?style=flat-square" alt="MCP servers"/>
+  <img src="https://img.shields.io/badge/AI%20agents-14b8a6?style=flat-square" alt="AI agents"/>
+  <img src="https://img.shields.io/badge/UX%20design-14b8a6?style=flat-square" alt="UX design"/>
+</p>
 
 <br/>
 
-<img src="assets/title-now.svg" width="100%" alt="03 — Right now"/>
+<img src="assets/title-now.svg" width="100%" alt="What I'm up to"/>
 
-<img src="assets/now.svg" width="100%" alt="M.S. Cybersecurity at DePaul; Microsoft Azure AZ-104 then Expert level; hands-on labs in Entra ID, Conditional Access, Sentinel and pentesting; looking for full-time security and software roles, then internships."/>
+<img src="assets/now.svg" width="100%" alt="Studying for an M.S. in Cybersecurity at DePaul; working on Azure AZ-104, then Expert level; practicing Entra ID, Conditional Access, Sentinel and pentesting; looking for full-time security and software roles, and internships."/>
 
 <br/>
 
 <details>
-<summary><b>About me</b> — the longer version</summary>
+<summary><b>A little more about me</b></summary>
 <br/>
 
-I started in front-end development at **Fleetio** and web design at **National Louis University**, and I'm now a
+I started out in front-end development at **Fleetio** and web design at **National Louis University**, and today I'm a
 **Google Digital Marketing Apprentice** while studying for my **M.S. in Cybersecurity at DePaul**
-(B.S. in Computer Science & Information Systems).
+(I hold a B.S. in Computer Science & Information Systems).
 
-Building interfaces taught me to care about the person on the other side of the screen. Security is how I protect them.
-My favorite work sits where **AI, security and good UX** meet: tools that are powerful underneath and simple on top.
+Building interfaces taught me to care about the person on the other side of the screen. Security is how I look after them.
+I'm happiest when I can turn a complicated idea into something simple and intuitive.
 
-Alongside my degree I'm training at **Cybervault School** in Azure, IAM, Sentinel, Kali Linux, Terraform and DevSecOps.
+Outside class, I'm training at **Cybervault School** in Azure, IAM, Sentinel, Kali Linux, Terraform and DevSecOps.
 </details>
 
-<p align="center"><sub>secure by design · simple by default</sub></p>
+<p align="center"><sub>Thanks for stopping by ✨</sub></p>
