@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Hi, I'm Aiperi Moldobaeva — Software & Security Engineer. Open to full-time roles and internships."/>
+  <img src="assets/hero.svg?v=4" width="100%" alt="Hi, I'm Aiperi Moldobaeva — Software & Security Engineer. Open to full-time roles and internships."/>
 </p>
 
 <p align="center">
