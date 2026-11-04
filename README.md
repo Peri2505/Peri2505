@@ -37,13 +37,20 @@
 </p>
 
 <p align="center">
+  <b>Microsoft security</b><br/><br/>
+  <img src="https://img.shields.io/badge/Azure%20Security-7c3aed?style=flat-square" alt="Azure Security"/>
   <img src="https://img.shields.io/badge/Microsoft%20Entra%20ID-7c3aed?style=flat-square" alt="Microsoft Entra ID"/>
   <img src="https://img.shields.io/badge/Conditional%20Access-7c3aed?style=flat-square" alt="Conditional Access"/>
-  <img src="https://img.shields.io/badge/IAM-ec4899?style=flat-square" alt="IAM"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Sentinel-ec4899?style=flat-square" alt="Microsoft Sentinel"/>
+  <img src="https://img.shields.io/badge/PIM-ec4899?style=flat-square" alt="PIM"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Sentinel%20SIEM-ec4899?style=flat-square" alt="Microsoft Sentinel SIEM"/>
+  <img src="https://img.shields.io/badge/Defender%20XDR-ec4899?style=flat-square" alt="Defender XDR"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Purview-f97316?style=flat-square" alt="Microsoft Purview"/>
+  <img src="https://img.shields.io/badge/Zero%20Trust-f97316?style=flat-square" alt="Zero Trust"/>
   <img src="https://img.shields.io/badge/Intune-f97316?style=flat-square" alt="Intune"/>
-  <img src="https://img.shields.io/badge/DevSecOps-f97316?style=flat-square" alt="DevSecOps"/>
-  <img src="https://img.shields.io/badge/AWS%20Bedrock-0ea5e9?style=flat-square" alt="AWS Bedrock"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DevSecOps-0ea5e9?style=flat-square" alt="DevSecOps"/>
   <img src="https://img.shields.io/badge/MCP%20servers-0ea5e9?style=flat-square" alt="MCP servers"/>
   <img src="https://img.shields.io/badge/AI%20agents-14b8a6?style=flat-square" alt="AI agents"/>
   <img src="https://img.shields.io/badge/UX%20design-14b8a6?style=flat-square" alt="UX design"/>
