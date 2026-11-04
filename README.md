@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <b>Let's connect!</b> I'm always happy to chat about security, AI, design, or a role on your team.
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/aiperi-moldobaeva"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="44" alt="LinkedIn"/></a>
   &nbsp;
   <a href="mailto:moldobaevaaiperi19@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=light" height="44" alt="Email"/></a>
