@@ -3,8 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aiperi-moldobaeva"><img src="https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-7c3aed?style=for-the-badge" alt="LinkedIn"/></a>
-  <a href="mailto:moldobaevaaiperi19@gmail.com"><img src="https://img.shields.io/badge/Email%20me-ec4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/aiperi-moldobaeva"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="44" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="mailto:moldobaevaaiperi19@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=light" height="44" alt="Email"/></a>
+  &nbsp;
+  <a href="https://github.com/Peri2505"><img src="https://skillicons.dev/icons?i=github&theme=light" height="44" alt="GitHub"/></a>
 </p>
 
 <br/>
