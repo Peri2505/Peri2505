@@ -68,7 +68,7 @@ I started out in front-end development at **Fleetio** and web design at **Nation
 Building interfaces taught me to care about the person on the other side of the screen. Security is how I look after them.
 I'm happiest when I can turn a complicated idea into something simple and intuitive.
 
-Outside class, I'm training at **Cybervault School** in Azure, IAM, Sentinel, Kali Linux, Terraform and DevSecOps.
+My hands-on security work spans **Azure, identity & access (Entra ID, Conditional Access), Microsoft Sentinel, Kali Linux, Terraform and DevSecOps**.
 </details>
 
 <p align="center"><sub>Thanks for stopping by ✨</sub></p>
