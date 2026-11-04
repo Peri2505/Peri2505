@@ -2,16 +2,12 @@
   <img src="assets/hero.svg?v=4" width="100%" alt="Hi, I'm Aiperi Moldobaeva — Software & Security Engineer. Open to full-time roles and internships."/>
 </p>
 
-<p align="center">
-  <b>Let's connect!</b> I'm always happy to chat about security, AI, design, or a role on your team.
-</p>
+<img src="assets/connect.svg" width="100%" alt="Let's build something together — hiring for security or software, or want to swap ideas on AI, design, or a hackathon? My inbox is always open."/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aiperi-moldobaeva"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="44" alt="LinkedIn"/></a>
-  &nbsp;
-  <a href="mailto:moldobaevaaiperi19@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=light" height="44" alt="Email"/></a>
-  &nbsp;
-  <a href="https://github.com/Peri2505"><img src="https://skillicons.dev/icons?i=github&theme=light" height="44" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/aiperi-moldobaeva"><img src="assets/btn-linkedin.svg" width="30%" alt="Connect on LinkedIn"/></a>
+  <a href="mailto:moldobaevaaiperi19@gmail.com"><img src="assets/btn-gmail.svg" width="30%" alt="Send me an email"/></a>
+  <a href="https://github.com/Peri2505?tab=repositories"><img src="assets/btn-github.svg" width="30%" alt="Explore my code"/></a>
 </p>
 
 <br/>
