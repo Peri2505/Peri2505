@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Hi, I'm Aiperi Moldobaeva — software engineer growing into security. Open to full-time roles and internships."/>
+  <img src="assets/hero.svg" width="100%" alt="Hi, I'm Aiperi Moldobaeva — Software & Security Engineer. Open to full-time roles and internships."/>
 </p>
 
 <p align="center">
@@ -61,8 +61,8 @@
 <summary><b>A little more about me</b></summary>
 <br/>
 
-I started out in front-end development at **Fleetio** and web design at **National Louis University**, and today I'm a
-**Google Digital Marketing Apprentice** while studying for my **M.S. in Cybersecurity at DePaul**
+I started out in front-end development at **Fleetio** and web design at **National Louis University**, and was a
+**Google Digital Marketing Apprentice**. Today I'm studying for my **M.S. in Cybersecurity at DePaul**
 (I hold a B.S. in Computer Science & Information Systems).
 
 Building interfaces taught me to care about the person on the other side of the screen. Security is how I look after them.
