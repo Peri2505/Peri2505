@@ -1,6 +1,6 @@
 <!-- ░░░ Banner ░░░ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Aiperi%20Moldobaeva&fontColor=e6fffa&fontSize=52&fontAlignY=38&desc=Software%20%26%20Security%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" alt="Aiperi Moldobaeva banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:203a43,100:2c5364&text=Aiperi%20Moldobaeva&fontColor=e6fffa&fontSize=50&fontAlignY=40" alt="Aiperi Moldobaeva banner"/>
 </p>
 
 <p align="center">
